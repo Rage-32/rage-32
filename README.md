@@ -51,6 +51,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Rage-32/rage-32/2ff00c9a5d8bbff71098848c5e4ad6ce3a85ac35/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Rage-32/rage-32/85f972c525d2db74f4cd29276cf0bd01f3d08e44/snake.svg" alt="Snake animation" />
 
 ###
