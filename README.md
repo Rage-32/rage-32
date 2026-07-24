@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Rage and I'm a backend developer from The United States!</h2>
+<h2 align="left">Hi 👋, I'm Owen (aka Rage), a self-taught developer from the United States!</h2>
 
 ###
 
